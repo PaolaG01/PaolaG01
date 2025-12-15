@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🎓 Education  
 - BSc in Industrial and Management Engineering :chart_with_upwards_trend:
-- MSc in Computer Engineering :computer:
+- MSc in Computer Engineering - Artificial Intelligence and Human-Centered Computing :computer:
 
 📫 My Contacts
 - Email: paola.grotti@edu.unige.it
