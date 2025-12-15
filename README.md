@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex)
 
 ### 🗄️
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1284C8?style=flat&logo=apachecassandra&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
