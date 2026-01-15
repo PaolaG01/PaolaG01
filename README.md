@@ -1,4 +1,4 @@
-## Hi there, I'm Paola! 👋
+## Hello there, I'm Paola! 👋
 
 <!--
 **PaolaG01/PaolaG01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
